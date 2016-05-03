@@ -1,0 +1,22 @@
+{
+  "name": "Seriously.js",
+  "homepage": "https://github.com/ECMachado/Seriously.js",
+  "authors": [
+    "Emanuel Machado <emanuel.c.machado@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "seriously.js",
+    "effects/seriously.blend.js",
+    "effects/seriously.layers.js"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
