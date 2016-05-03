@@ -7,8 +7,7 @@
   "description": "",
   "main": [
     "seriously.js",
-    "effects/seriously.blend.js",
-    "effects/seriously.layers.js"
+    "effects/seriously.blend.js"
   ],
   "license": "MIT",
   "private": true,
